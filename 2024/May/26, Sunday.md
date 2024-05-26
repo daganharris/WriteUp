@@ -8,7 +8,6 @@
 ### Health
 - Physical Feeling: `XX%`;
 - Symptoms: `(None)`;
-
 - Mental Feeling: `XX%`;
 - Comments: `(None)`;
 
