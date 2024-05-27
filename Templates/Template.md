@@ -1,7 +1,7 @@
 # Metrics
 ### Sleep
-- Wake Time: `00:00 XM`;
 - Sleep Time: `00:00 XM`;
+- Wake Time: `00:00 XM`;
 - Resultant Time: `00h`;
 - Comments: `(None)`;
 

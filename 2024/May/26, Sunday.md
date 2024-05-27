@@ -1,17 +1,17 @@
 # Metrics
 ### Sleep
-- Wake Time: `Null`;
-- Sleep Time: `00:00 XM`;
-- Resultant Time: `00h`;
-- Comments: `Forgone sleep to correct schedule.`;
+- Sleep Time: `06:50 XM`;
+- Wake Time: `04:45 PM`;
+- Resultant Time: `9h 55m`;
+- Comments: `Attempted to forgo sleep to fix schedule, failed.`;
 
 ### Health
-- Physical Feeling: `XX%`;
-- Symptoms: `(None)`;
-- Mental Feeling: `XX%`;
-- Comments: `(None)`;
+- Physical Feeling: `35%`;
+- Symptoms: `Tired, groggy, headache - probably dehydration`;
+- Mental Feeling: `40%%`;
+- Comments: `Seeming to be nervous about tuesday when school starts and I must inform them of my leaving. Also seeming to look back on unfavorable outcomes of social situations.`;
 
-- Calories Eaten: ~` kJ`;
+- Calories Eaten: ~`3785 kJ`;
 
 # Entry
 Started off in early morning watching Love, Victor and the back half of Ghostbusters. Also having thoughts of self harm, which I fought off for the most part aside from the odd biting of hands.
@@ -21,6 +21,8 @@ I was productive, possibly out of anxiousness for the starting of school again. 
 And now that I can sync these bloody vaults without coughing up more dosh to yet another tech company, thanks by the way, GitHub - who **definitely** is not another tech company, I thought, after my therapist/councillor/what-is-the-difference Sarah's recommendation to start a journal, I should. I decided to make it extremely standardized and far too complicated for some reason, like I always do (who writes schemas for the organisation for the worldbuilding for the book they are writing? Me. That's who, damn right.) 
 
 And so, here we are - in the least reviewed, most disorganised journal to be put together since the invention of the mad scientist trope. At least the jokes are good - said a sarcastic self-critical idiot, writing this. I should mention that this part is written in past tense as if it was "this morning" when it was "this morning right now, just earlier". The length of these is undefined, the subject too, apart from some metrics that I *say* will be filled in each time they perhaps won't. Let's see how this goes!
+
+Later on. Unfortunately I could not 
 
 
 
