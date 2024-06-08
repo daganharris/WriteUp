@@ -1,0 +1,1 @@
+This journal does not have to constitute every day, but should allow for, on average, many days to be logged, allowing for a relatively easy look back on days, not just ideas.
