@@ -1,11 +1,11 @@
-# Metrics
-### Sleep
-- Sleep Time: `06:50 XM`;
-- Wake Time: `04:45 PM`;
+## Metrics
+#### Sleep (Yesterday-Today)
+- Sleep Time: ~`06:50 AM`;
+- Wake Time: ~`04:45 PM`;
 - Resultant Time: `9h 55m`;
 - Comments: `Attempted to forgo sleep to fix schedule, failed.`;
 
-### Health
+#### Health
 - Physical Feeling: `35%`;
 - Symptoms: `Tired, groggy, headache - probably dehydration`;
 - Mental Feeling: `40%%`;
@@ -13,7 +13,7 @@
 
 - Calories Eaten: ~`3785 kJ`;
 
-# Entry
+## Entry
 Started off in early morning watching Love, Victor and the back half of Ghostbusters. Also having thoughts of self harm, which I fought off for the most part aside from the odd biting of hands.
 
 I was productive, possibly out of anxiousness for the starting of school again. I have started the organisation of TOCU into Playbooks, Components, Sectors, and Modules. Going well, started the schema for playbooks (well, most just rules with a promise to add a schema, but hey) and added some playbook interrelationship definitions, somewhat futureproofing for if this thing ever goes public, or, even goes at all - which it will now that it's bloody organised instead of feeling like thinking up ideas in a system of maximum entropy.
